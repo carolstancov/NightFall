@@ -16,6 +16,7 @@ a) Sala de Segurança: Desbloqueia o acesso à Sala do Diretor.
 b) Sala do Diretor: O jogador obtém a chave de acesso para o subsolo.
 
  SUBSOLO - LABORATÓRIO:
+ 
  ![image](https://github.com/user-attachments/assets/adcb66eb-1f1a-4f6f-ab64-77439b860a82)
 
 a) Sala 3: Onde estará o segredo da empresa
