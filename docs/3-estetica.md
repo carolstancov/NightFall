@@ -40,5 +40,5 @@
      
         
 - Sentidos
- - Visual: Iluminação limitada, jogo de sombras, ambientes claustrofóbicos.
- - Sonoro: Trilha sonora tensa, ruídos assustadores e sons ambiente imersivos
+     - Visual: Iluminação limitada, jogo de sombras, ambientes claustrofóbicos.
+     - Sonoro: Trilha sonora tensa, ruídos assustadores e sons ambiente imersivos
