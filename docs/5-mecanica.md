@@ -35,15 +35,15 @@
 
     - Quais os recursos do jogo?
 
-    -Ethan: Movimentação (andar e atirar), status de bateria e munição.
-  
-    - O Perseguidor: Comportamento dinâmico, aparecendo e atacando quando a lanterna se apaga.
-      
-    - Sombras: Patrulham áreas específicas e reagem a lanterna.
-      
-    - Baterias: Itens coletáveis que restauram a energia da lanterna.
-      
-    - Pistola: Funcionalidade limitada para confrontos emergenciais.
+       -Ethan: Movimentação (andar e atirar), status de bateria e munição.
+    
+      - O Perseguidor: Comportamento dinâmico, aparecendo e atacando quando a lanterna se apaga.
+        
+      - Sombras: Patrulham áreas específicas e reagem a lanterna.
+        
+      - Baterias: Itens coletáveis que restauram a energia da lanterna.
+        
+      - Pistola: Funcionalidade limitada para confrontos emergenciais.
       
     - Quais os limites do jogo?
       
