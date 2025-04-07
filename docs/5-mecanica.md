@@ -35,7 +35,7 @@
 
     - Quais os recursos do jogo?
 
-       -Ethan: Movimentação (andar e atirar), status de bateria e munição.
+       - Ethan: Movimentação (andar e atirar), status de bateria e munição.
     
       - O Perseguidor: Comportamento dinâmico, aparecendo e atacando quando a lanterna se apaga.
         
