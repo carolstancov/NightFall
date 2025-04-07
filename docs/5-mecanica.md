@@ -15,7 +15,7 @@
           Quando Ethan escapa e revela a verdade.
           
         - Quando o jogador perde?
-        - 
+          
           Ethan é vencido pela escuridão.
           
     - Quais são as regras do jogo?
@@ -24,13 +24,13 @@
   
     - Quais são os procedimentos do jogo?
       
-    - Exploração da fábrica em busca de baterias e pistas.
-      
-    - Gestão de energia da lanterna para evitar ser pego pelo Perseguidor.
-      
-    - Enfrentamento ou fuga de ameaças secundárias.
-      
-    - Progressão através da movimentação no cenário.
+      - Exploração da fábrica em busca de baterias e pistas.
+        
+      - Gestão de energia da lanterna para evitar ser pego pelo Perseguidor.
+        
+      - Enfrentamento ou fuga de ameaças secundárias.
+        
+      - Progressão através da movimentação no cenário.
 
 
     - Quais os recursos do jogo?
