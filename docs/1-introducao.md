@@ -1,7 +1,7 @@
 ### Introdução
 
 - Qual a ideia principal do seu jogo?
-- 
+  
   A ideia principal de Nightfall é oferecer uma experiência imersiva de survival horror em um ambiente 2D side-scroller. O jogo coloca o jogador no papel de Ethan, um investigador paranormal que explora uma fábrica abandonada infestada por uma entidade sombria, o Perseguidor. A principal mecânica do jogo gira em torno da sobrevivência, onde o jogador deve gerenciar recursos limitados, como a energia da lanterna e a munição da pistola, enquanto enfrenta ameaças como o Perseguidor e criaturas chamadas Sombras. O jogo desafia o jogador a explorar, tomar decisões estratégicas e gerenciar recursos sob constante tensão e perigo.
 - Que tipo de experiência você quer dar para o seu jogador?
   
