@@ -4,7 +4,7 @@
   
     - Qual o padrão de interação do jogador?
       
-      O jogador interage com o mundo ao tocar em objetos, abrir portas, examinar cartas, mapas, documentos e itens de colecionáveis que ajudam a entender melhor a história e o cenário. Isso também pode incluir interações com a luz e sombras para revelar caminhos secretos. O uso de fontes de luz (como lanternas, velas ou fogos) permite que o jogador revele áreas que estavam escondidas pela escuridão, mas também o coloca em risco, já que as sombras podem ser tanto uma proteção quanto uma ameaça.
+      O jogador interage com o mundo ao tocar em objetos, abrir portas, examinar cartas, mapas, documentos e itens de colecionáveis que ajudam a entender melhor a história e o cenário. Isso também pode incluir interações com a luz e sombras para revelar caminhos secretos. O uso de fontes de luz (como lanternas) permite que o jogador revele áreas que estavam escondidas pela escuridão, mas também o coloca em risco, já que as sombras podem ser uma ameaça.
       
     - Qual o objetivo do jogo?
       O objetivo do jogador é sobreviver e destruir a fonte do mal para restaurar a paz.
