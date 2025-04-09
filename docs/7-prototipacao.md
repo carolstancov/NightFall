@@ -39,25 +39,16 @@ a) Play Again: O jogador poderá jogar de novo.
 
 b) Exit: O retorna ao menu.
 
-CAFETERIA:
+Exemplo de sala do diretor:   
 
-![image](https://github.com/user-attachments/assets/a4a4fabb-f2a5-4eb3-a3c2-6ff352b53ede)
+![factory2](https://github.com/user-attachments/assets/2ae8173c-c814-4426-9ee3-c5dd10910f8c)
 
-a) A cena estará escura e o jogador terá que andar pela cena apenas com a luz da lanterna. O jogador irá colidir com os objetos.
-
- ESCRITÓRIO:
-
- ![image](https://github.com/user-attachments/assets/b417595d-65aa-4b0c-ae79-6057184f9b4e)
-
- a) A cena estará escura e o jogador terá que andar pela cena apenas com a luz da lanterna. O jogador irá colidir com os objetos.
-
-  LABORATÓRIO:
-
-  ![image](https://github.com/user-attachments/assets/e4eb5ea6-880d-4fff-ae41-4d1659ac1aff)7
-
-  a) A cena estará escura e o jogador terá que andar pela cena apenas com a luz da lanterna. O jogador irá colidir com os objetos.
+Exemplo de Salão Principal:
+ 
+![factory3](https://github.com/user-attachments/assets/92a1c03d-7b13-4807-b487-379dfea9aea9)
 
 
+Créditos: https://kokororeflections.itch.io/kr-factory-tileset-for-rpgs
 
 
 
