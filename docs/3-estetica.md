@@ -1,35 +1,33 @@
 ### Estética
 
-- Personagens 
-    - Quais os personagens que farão parte do jogo?
+- Personagens
       
-        - Ethan (Herói): Investigador determinado, experiente e analítico. Carrega o peso emocional de investigações traumáticas passadas.
+    - Ethan (Herói): Investigador determinado, experiente e analítico. Carrega o peso emocional de investigações traumáticas passadas.
           
-        - Perseguidor (Antagonista Principal): Entidade obscura e implacável que caça na escuridão. Invisível no escuro, sensível à luz.
+    - Perseguidor (Antagonista Principal): Entidade obscura e implacável que caça na escuridão. Invisível no escuro, sensível à luz.
           
-        - Sombras (Inimigos Secundários): Experimentos deformados que vagam pela fábrica. Alguns são agressivos, outros apenas ameaçadores.
+    - Sombras (Inimigos Secundários): Experimentos deformados que vagam pela fábrica. Alguns são agressivos, outros apenas ameaçadores.
           
-        - Objetos-Chave: Lanterna, Baterias, Pistola, Arquivos misteriosos, Diários dos antigos funcionários.
+    - Objetos-Chave: Lanterna, Baterias, Pistola, Arquivos misteriosos, Diários dos antigos funcionários.
           
-    - Qual o plano de fundo do(s) seu(s) personagem(s)?
+- Plano de fundo dos personagens
       
-      - Ethan: Investigador com histórico de casos sobrenaturais. Calculista, determinado e movido pelo desejo de compreender o inexplicável.
+    - Ethan: Investigador com histórico de casos sobrenaturais. Calculista, determinado e movido pelo desejo de compreender o inexplicável.
         
-      - O Perseguidor: tem um passado profundo e sombrio ligado à fábrica abandonada. Criatura das sombras que caça Ethan quando ele está sem luz.
+    - O Perseguidor: tem um passado profundo e sombrio ligado à fábrica abandonada. Criatura das sombras que caça Ethan quando ele está sem luz.
         
-      - Sombras: Experimentos fracassados que ainda vagam pela fábrica.
+    - Sombras: Experimentos fracassados que ainda vagam pela fábrica.
         
 
-    - Quais as características mais importantes para serem adicionadas no(s) personagem(s)?
+- Características importantes dos personagens
       
-      - Ethan: Investigador com histórico de casos sobrenaturais. Calculista, determinado e movido pelo desejo de compreender o inexplicável. Características importantes: Instinto de sobrevivência, Capacidade analítica e Passado sombrio (referenciado nos arquivos que podem ser encontrados durante o jogo).
+    - Ethan: Investigador com histórico de casos sobrenaturais. Calculista, determinado e movido pelo desejo de compreender o inexplicável. Características importantes: Instinto de sobrevivência, Capacidade analítica e Passado sombrio (referenciado nos arquivos que podem ser encontrados durante o jogo).
         
-      - O Perseguidor: O perseguidor nasceu da manifestação do sofrimento e do trauma daqueles que trabalharam no local, alimentando-se de medo e dor. Quando a fábrica foi abandonada, o Perseguidor não encontrou descanso, tornando-se uma presença maligna que assombra o local e persegue qualquer um que se atreva a entrar.
+    - O Perseguidor: O perseguidor nasceu de um experimento que cientistas perderam o controle sobre em seus experimentos fracassados na fábrica, especialmente mais poderoso do que os outros. Quando a fábrica foi abandonada, o Perseguidor não encontrou descanso, tornando-se uma presença maligna que assombra o local e persegue qualquer um que se atreva a entrar.
         
-      - Sombras: Experimentos fracassados que ainda vagam pela fábrica. 
+    - Sombras: Experimentos fracassados que ainda vagam pela fábrica. 
       
       
-
 - História
 
     - Premissa
